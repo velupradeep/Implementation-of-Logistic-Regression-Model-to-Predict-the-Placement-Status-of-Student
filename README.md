@@ -92,24 +92,37 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 # Head
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/8f1a2f1c-26f8-40ec-ab83-488e87cfda4e)
-# Head after dropping sl_n0 and Salary
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/01415065-bafd-411d-9dfa-55613d2a3774)
-# isnull()
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/a4e5c22d-099e-4fae-a79a-15c2b6311eb8)
-# Duplicated(),sum()
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/684f1f6c-f893-4fbc-8f4c-d220a55c8213)
-# Data 1
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/97a1a1af-622f-430c-bb86-fa85b2862bb8)
-# X
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/2e77797f-6e92-4497-a759-44fe45a314e1)
-# Y
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/f61e62b6-cbb4-468b-8161-6d4b3dae457a)
-# Y_pred
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/fa3a6204-d076-4044-a8fc-7b80a437f54d)
-# Accuracy
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/0cce6c02-bd39-466b-b879-243a61473c8b)
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/cadafe0e-aa47-480d-b42e-a6d59b84bbb3)
 
+# Head after dropping sl_n0 and Salary
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/99d0e988-abd5-4093-9df7-6ef53c5bd361)
+
+# isnull()
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/acf9ae90-4d05-4a57-9cea-6058b2cd3a3e)
+
+# Duplicated(),sum()
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/18d68e5e-784c-496e-9945-416f3b3fd654)
+
+# Data 1
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/e245313e-8ea6-45cb-bc66-8caa421e8540)
+
+# X
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/450008c7-e5f2-4d90-adbf-ad21bc9de1bd)
+
+# Y
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/8e836549-e412-4135-8545-888541ec77b5)
+
+# Y_pred
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/a0ff7084-be66-4f2d-bb09-a7fee17ed913)
+
+# Accuracy
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/b8908446-0c1f-4cac-8e89-260424e97162)
+
+# Classification report
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/c3c8abb3-f13b-4fe7-806a-92237ab80ef2)
+
+# Predict
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/10450fb5-1f2c-4414-a205-7cad40e98396)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
