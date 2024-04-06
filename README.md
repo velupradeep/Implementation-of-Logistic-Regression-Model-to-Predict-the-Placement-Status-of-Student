@@ -91,13 +91,24 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ## Output:
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/1bb17c5d-ccff-472c-a171-e1e96e94c67a)
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/a8ae5399-98b5-496d-ba3c-f826d9f5c556)
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/dc611b9d-03cf-4fd8-8f4e-339f4145c350)
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/6bd4455b-05ec-4487-9c68-3600ac467a7a)
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/5c9adfbd-18e9-4f0c-9842-22138091d823)
-![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/d6a7e4ba-5f98-4509-8f12-9fdd19eba128)
 
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/8f1a2f1c-26f8-40ec-ab83-488e87cfda4e)
+
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/01415065-bafd-411d-9dfa-55613d2a3774)
+
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/a4e5c22d-099e-4fae-a79a-15c2b6311eb8)
+
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/684f1f6c-f893-4fbc-8f4c-d220a55c8213)
+
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/97a1a1af-622f-430c-bb86-fa85b2862bb8)
+
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/2e77797f-6e92-4497-a759-44fe45a314e1)
+
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/f61e62b6-cbb4-468b-8161-6d4b3dae457a)
+
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/fa3a6204-d076-4044-a8fc-7b80a437f54d)
+
+![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/0cce6c02-bd39-466b-b879-243a61473c8b)
 
 
 ## Result:
