@@ -1,3 +1,6 @@
+                                                        #NAME:PRADEEP V
+                                                        #REG N0:212223240119
+
 # Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
@@ -20,7 +23,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: V. Pradeep
+Developed by: PRADEEP V
 RegisterNumber:  212223240119
 */
 ```
