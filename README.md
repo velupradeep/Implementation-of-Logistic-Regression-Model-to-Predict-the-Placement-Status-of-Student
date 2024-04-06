@@ -91,23 +91,23 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ## Output:
-
+# Head
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/8f1a2f1c-26f8-40ec-ab83-488e87cfda4e)
-
+# Head after dropping sl_n0 and Salary
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/01415065-bafd-411d-9dfa-55613d2a3774)
-
+# isnull()
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/a4e5c22d-099e-4fae-a79a-15c2b6311eb8)
-
+# Duplicated(),sum()
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/684f1f6c-f893-4fbc-8f4c-d220a55c8213)
-
+# Data 1
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/97a1a1af-622f-430c-bb86-fa85b2862bb8)
-
+# X
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/2e77797f-6e92-4497-a759-44fe45a314e1)
-
+# Y
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/f61e62b6-cbb4-468b-8161-6d4b3dae457a)
-
+# Y_pred
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/fa3a6204-d076-4044-a8fc-7b80a437f54d)
-
+# Accuracy
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/0cce6c02-bd39-466b-b879-243a61473c8b)
 
 
