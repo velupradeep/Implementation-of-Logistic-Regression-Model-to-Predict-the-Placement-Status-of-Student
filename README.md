@@ -116,6 +116,12 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 # Data 1
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/e245313e-8ea6-45cb-bc66-8caa421e8540)
+```
+
+
+
+
+```
 
 # X
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/450008c7-e5f2-4d90-adbf-ad21bc9de1bd)
