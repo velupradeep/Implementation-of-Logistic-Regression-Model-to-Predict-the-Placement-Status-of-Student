@@ -16,6 +16,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 4. Import Logistic regression module from sklearn.linear_model library to predict the values.
 5. Find accuracy, confusion matrix ,and classification report using sklearn.metrics library.
 6. Predict for the new given values. End of the program.
+
+```
+
+
+
+
+```
    
 
 ## Program:
@@ -65,6 +72,12 @@ from sklearn.metrics import classification_report
 classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
+
+```
+
+```
+
+
 
 ```
 
