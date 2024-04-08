@@ -1,5 +1,4 @@
-                                                        #NAME:PRADEEP V
-                                                        #REG N0:212223240119
+
 
 # EX-04 Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
