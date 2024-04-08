@@ -79,6 +79,10 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 
+
+
+
+
 ```
 
 
@@ -88,6 +92,10 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 # Head after dropping sl_n0 and Salary
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/99d0e988-abd5-4093-9df7-6ef53c5bd361)
+```
+
+
+```
 
 # isnull()
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/acf9ae90-4d05-4a57-9cea-6058b2cd3a3e)
