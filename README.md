@@ -17,13 +17,6 @@ To write a program to implement the the Logistic Regression Model to Predict the
 5. Find accuracy, confusion matrix ,and classification report using sklearn.metrics library.
 6. Predict for the new given values. End of the program.
 
-```
-
-
-
-
-```
-   
 
 ## Program:
 ```
@@ -75,27 +68,13 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ```
 
-```
-
-
-
-
-
-
-
-```
-
-
 ## Output:
 # Head
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/cadafe0e-aa47-480d-b42e-a6d59b84bbb3)
 
 # Head after dropping sl_n0 and Salary
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/99d0e988-abd5-4093-9df7-6ef53c5bd361)
-```
 
-
-```
 
 # isnull()
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/acf9ae90-4d05-4a57-9cea-6058b2cd3a3e)
@@ -103,36 +82,13 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 # Duplicated(),sum()
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/18d68e5e-784c-496e-9945-416f3b3fd654)
 
-```
-
-
-
-
-
-
-
-
-```
 
 # Data 1
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/e245313e-8ea6-45cb-bc66-8caa421e8540)
-```
-
-
-
-
-```
 
 # X
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/450008c7-e5f2-4d90-adbf-ad21bc9de1bd)
 
-```
-
-
-
-
-
-```
 
 # Y
 ![image](https://github.com/velupradeep/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/150329341/8e836549-e412-4135-8545-888541ec77b5)
