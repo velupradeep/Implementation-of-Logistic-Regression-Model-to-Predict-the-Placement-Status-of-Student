@@ -18,6 +18,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 6. Predict for the new given values. End of the program.
 
 
+
 ## Program:
 ```
 /*
